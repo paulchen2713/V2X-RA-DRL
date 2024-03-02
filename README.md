@@ -1,8 +1,11 @@
-# V2X-RA-DRL
+# **V2X-RA-DRL**
 Deep Reinforcement Learning-Based Resource Allocation for Cellular V2X Communications
 
+## **Note**
+- This is a recent upload of a project from 16 months ago. The code is somewhat poorly written, lacking in extensibility and likely not maintainable.
+- It fails to pass some static analysis and has shown to have 2 potential bugs.
 
-## Reference
+## **Reference**
 - Y. -C. Chung, H. -Y. Chang, R. Y. Chang and W. -H. Chung, "[Deep Reinforcement Learning-Based Resource Allocation for Cellular V2X Communications](https://ieeexplore.ieee.org/document/10200293)," *2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, Florence, Italy, 2023, pp. 1-7.
 
 - If you find this code helpful, we highly recommend that you read and cite this paper.
