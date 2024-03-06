@@ -4,6 +4,7 @@ Deep Reinforcement Learning-Based Resource Allocation for Cellular V2X Communica
 ## **Note**
 - This is a recent upload of a project from 16 months ago. The code is somewhat poorly written, lacking in extensibility and likely not maintainable.
 - It fails to pass some static analysis and has shown to have 2 potential bugs.
+- The original PC that I ran the code on is dead now. I know this sounds dramatic, but shit happens sometimes. So, if the dependency doesn't work, well, there's basically nothing I can do to help.
 
 ## **Reference**
 - Y. -C. Chung, H. -Y. Chang, R. Y. Chang and W. -H. Chung, "[Deep Reinforcement Learning-Based Resource Allocation for Cellular V2X Communications](https://ieeexplore.ieee.org/document/10200293)," *2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, Florence, Italy, 2023, pp. 1-7.
